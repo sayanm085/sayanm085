@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanm085&theme=dark" alt="sayanm085" /></p>
 
-<iframe src="https://github.com/sponsors/sayanm085/button" title="Sponsor sayanm085" height="32" width="114" ></iframe>
